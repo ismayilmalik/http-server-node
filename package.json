@@ -1,0 +1,19 @@
+{
+  "name": "http-server-node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ismayilmalik/http-server-node.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ismayilmalik/http-server-node/issues"
+  },
+  "homepage": "https://github.com/ismayilmalik/http-server-node#readme"
+}
